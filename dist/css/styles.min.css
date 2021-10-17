@@ -14,12 +14,12 @@
 .project_container{padding:55px;background:#ffffff 0% 0% no-repeat padding-box;box-shadow:0px 3px 6px #00000029;border-radius:5px;border:0}
 .project_container .project_details{position:relative}
 .project_container .project_details:after{position:absolute;display:inline-block;content:"";top:0;bottom:0;width:14px;left:-55px}
-.project_container .project_details_blue:after{background-color:#6fa3d8}
-.project_container .project_details_lightblue:after{background-color:#BF6DFF}
+.project_container .project_details_blue:after{background-color:#3DA7FF}
+.project_container .project_details_lightblue:after{background-color:}
 .project_container .project_details_darkb:after{background-color:#1c79d8}
-.project_container .project_details_purple:after{background-color:#b0a6f5}
+.project_container .project_details_purple:after{background-color:#BF6DFF}
 .project_container .project_details_orange:after{background-color:#F0A93B}
-.project_container .project_details_green:after{background-color:#b7d1a0}
+.project_container .project_details_green:after{background-color:#2CD2C5}
 .project_container .project_details_red:after{background-color:#fe8471}
 .project_container .project_role{font:600 20px/27px Segoe UI;color:#2e2e2e;display:block}
 .project_container .project_name{font:normal 300 20px/26px Segoe UI;color:#2e2e2e;display:block;margin:8px 0}
