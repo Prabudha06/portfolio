@@ -15,7 +15,7 @@
 .project_container .project_details{position:relative}
 .project_container .project_details:after{position:absolute;display:inline-block;content:"";top:0;bottom:0;width:14px;left:-55px}
 .project_container .project_details_blue:after{background-color:#6fa3d8}
-.project_container .project_details_lightblue:after{background-color:#b8e5f8}
+.project_container .project_details_lightblue:after{background-color:#BF6DFF}
 .project_container .project_details_darkb:after{background-color:#1c79d8}
 .project_container .project_details_purple:after{background-color:#b0a6f5}
 .project_container .project_details_orange:after{background-color:#F0A93B}
@@ -48,7 +48,7 @@
 .box-container h5{font:normal normal normal 24px/32px Segoe UI;color:#2e2e2e;line-height:32px;position:relative;min-height:49px;padding:6px 0}
 .box-container h5:after{position:absolute;display:inline-block;background-color:#616161;content:"";top:0;bottom:0;width:14px;left:-42px}
 .box-container.box-container--blue h5:after{background-color:#6fa3d8}
-.box-container.box-container--lightblue h5:after{background-color:#b8e5f8}
+.box-container.box-container--lightblue h5:after{background-color:#BF6DFF}
 .box-container.box-container--darkb h5:after{background-color:#1c79d8}
 .box-container.box-container--purple h5:after{background-color:#b0a6f5}
 .box-container.box-container--orange h5:after{background-color:#F0A93B}
